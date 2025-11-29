@@ -50,7 +50,7 @@ return() => window.removeEventListener("scroll", handleScroll);
                 <Button size="lg" className="px-8">Get Started</Button> 
                 </Link>
                 <Link href="www.google.com">
-                <Button size="lg" className="px-8" variant="outline">Get Started</Button> 
+                <Button size="lg" className="px-8" variant="outline">Tutorial</Button> 
                 </Link>
             </div>
 
